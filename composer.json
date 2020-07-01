@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Spipu\\Html2Pdf\\": "src/"
+            "Stashbee\\Html2Pdf\\": "src/"
         }
     }
 }
